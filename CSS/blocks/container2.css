@@ -1,8 +1,15 @@
 .container2 {
+  display: flex;
+  align-items: center;
   background: #ff5437;
   margin-top: 1334px;
+  width: 1440px;
+  height: 316px;
+  column-gap: 178px;
 }
 .container__box1 {
+  margin-left: 199px;
+  text-align: center;
 }
 .container__box-text1 {
   font-family: "Poppins";
@@ -25,11 +32,14 @@
   font-size: 96px;
   line-height: 95px;
   color: #ffffff;
+  text-align: center;
 }
 .container__box-text20 {
   color: #ffffff;
 }
 .container__box3 {
+  margin-right: 224px;
+  text-align: center;
 }
 .container__box-text3 {
   font-family: "Poppins";
@@ -38,6 +48,7 @@
   font-size: 96px;
   line-height: 96px;
   color: #ffffff;
+  text-align: center;
 }
 .container__box-text30 {
   color: #ffffff;

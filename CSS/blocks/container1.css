@@ -1,7 +1,7 @@
 .container1 {
   background: #222222;
   position: absolute;
-  margin-left: -130px;
+  margin-left: 0px;
   top: 734px;
   width: 1440px;
   height: 1338px;
@@ -96,7 +96,6 @@
   line-height: 22px;
   height: 68px;
   width: 286px;
-  text-align: center;
   color: #222222;
 }
 .container1__div2 {
