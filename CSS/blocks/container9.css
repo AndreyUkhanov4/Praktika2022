@@ -1,0 +1,116 @@
+.container9 {
+  background-color: #e5e5e5;
+  width: 1440px;
+  height: 644px;
+}
+.container9__pot-text {
+  display: flex;
+  flex-direction: column;
+  margin-top: 105px;
+}
+.container9__pot-text1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: black;
+}
+.container9__pot-text2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  margin-top: 13px;
+  color: black;
+}
+.container9__big-pot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container9__litle-pot1 {
+}
+.container9__pot-text-header1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 42px;
+  color: black;
+}
+.container9__pot-text-base1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  width: 576px;
+  height: 96px;
+  margin-top: 10px;
+  color: black;
+}
+.container9__pot-text-header2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 50px;
+  color: black;
+}
+.container9__pot-text-base2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  width: 546px;
+  height: 96px;
+  margin-top: 10px;
+  color: black;
+}
+.container9__litle-pot2 {
+  margin-top: 42px;
+}
+.container9__pot-text-header3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: black;
+}
+.container9__pot-text-base3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  width: 572px;
+  height: 120px;
+  margin-top: 10px;
+  color: black;
+}
+.container9__pot-text-header4 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 26px;
+  color: black;
+}
+.container9__pot-text-base4 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  width: 558px;
+  height: 72px;
+  margin-top: 10px;
+  color: black;
+}

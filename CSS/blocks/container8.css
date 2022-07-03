@@ -1,0 +1,46 @@
+.container8 {
+}
+.container8__header-text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.container8__header-text1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 100px;
+  color: black;
+}
+.container8__header-text2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  margin-top: 5px;
+  color: black;
+}
+.container8__header-text3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  width: 589px;
+  height: 48px;
+  text-align: center;
+  margin-top: 14px;
+  color: #666666;
+}
+.container8__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 27px;
+}
+.container8__icon1 {
+}

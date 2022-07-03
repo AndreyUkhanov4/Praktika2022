@@ -1,0 +1,122 @@
+.container7 {
+  background-color: #f2f2f2;
+  height: 554px;
+  width: 1440px;
+}
+
+.container7__frame-wrapper-header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.container7__frame-wrapper-header1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: black;
+  margin-top: 100px;
+}
+.container7__frame-wrapper-header2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: black;
+}
+.container7__frame-wrapper-header3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #666666;
+  margin-top: 14px;
+}
+.container7__frame-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-self: flex-start;
+  margin-top: 41px;
+}
+.container7__frame-wrapper1 {
+  background-color: white;
+  border-radius: 20px;
+  margin-left: 136px;
+  height: 224px;
+  width: 379px;
+}
+.container7__frame-wrapper1-text {
+  width: 312px;
+  height: 96px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.container7__frame-wrapper1-trxt1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #222222;
+}
+.container7__frame-wrapper1-icon {
+  margin-left: 30px;
+  margin-top: 22px;
+}
+
+.container7__frame-wrapper2 {
+  background-color: white;
+  border-radius: 20px;
+  margin-left: 16px;
+  height: 224px;
+  width: 379px;
+}
+.container7__frame-wrapper2-text {
+  width: 310px;
+  height: 96px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.container7__frame-wrapper2-text1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #222222;
+}
+.container7__frame-wrapper2-icon {
+  margin-left: 30px;
+  margin-top: 22px;
+}
+
+.container7__frame-wrapper3 {
+  background-color: white;
+  border-radius: 20px;
+  margin-left: 15px;
+  height: 224px;
+  width: 379px;
+}
+.container7__frame-wrapper3-text {
+  width: 294px;
+  height: 72px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.container7__frame-wrapper3-text-1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #222222;
+}
+.container7__frame-wrapper3-icon {
+  margin-left: 30px;
+  margin-top: 46px;
+}
