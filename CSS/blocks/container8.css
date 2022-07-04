@@ -1,4 +1,5 @@
 .container8 {
+  min-height: 449px;
 }
 .container8__header-text {
   display: flex;

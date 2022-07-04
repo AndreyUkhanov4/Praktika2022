@@ -1,34 +1,10 @@
-.container9 {
-  background-color: #e5e5e5;
-  width: 1440px;
-  height: 644px;
-}
-.container9__pot-text {
-  display: flex;
-  flex-direction: column;
-  margin-top: 105px;
-}
-.container9__pot-text1 {
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 32px;
-  line-height: 36px;
-  color: black;
-}
-.container9__pot-text2 {
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 20px;
-  margin-top: 13px;
-  color: black;
-}
 .container9__big-pot {
   display: flex;
   align-items: center;
   justify-content: center;
+  position: absolute;
+  margin-top: 154px;
+  margin-left: 136px;
 }
 .container9__litle-pot1 {
 }
@@ -48,7 +24,7 @@
   font-size: 16px;
   line-height: 24px;
   width: 576px;
-  height: 96px;
+  max-height: 96px;
   margin-top: 10px;
   color: black;
 }
@@ -68,7 +44,7 @@
   font-size: 16px;
   line-height: 24px;
   width: 546px;
-  height: 96px;
+  max-height: 96px;
   margin-top: 10px;
   color: black;
 }
@@ -90,7 +66,7 @@
   font-size: 16px;
   line-height: 24px;
   width: 572px;
-  height: 120px;
+  max-height: 120px;
   margin-top: 10px;
   color: black;
 }
@@ -110,7 +86,33 @@
   font-size: 16px;
   line-height: 24px;
   width: 558px;
-  height: 72px;
+  max-height: 72px;
   margin-top: 10px;
+  color: black;
+}
+.container9 {
+  background-color: #e5e5e5;
+  min-height: 664px;
+}
+.container9__pot-text {
+  position: absolute;
+  margin-top: 105px;
+  margin-left: 136px;
+}
+.container9__pot-text1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  color: black;
+}
+.container9__pot-text2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  margin-top: 13px;
   color: black;
 }
