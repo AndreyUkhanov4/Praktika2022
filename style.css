@@ -1,0 +1,67 @@
+* {
+  margin: 5px;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(255, 212, 155);
+  font-family: system-ui;
+  background-image: url(./6.jpg);
+  min-height: 100vh;
+  margin: 30px;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 400px;
+}
+h1 {
+  text-align: center;
+  width: 1000px;
+}
+input {
+  display: inline-block;
+  width: 400px;
+  height: 20px;
+  margin: 20px;
+}
+.prazdnik {
+  width: 100%;
+  text-align: center;
+}
+.pole {
+  height: 450px;
+  border-radius: 10px;
+}
+label {
+  background-color: rgb(218, 218, 218);
+  box-shadow: 0 1rem 3rem 0rem rgba(0, 0, 0, 0.7);
+  border-radius: 12px;
+  padding: 12px;
+}
+input {
+  background-color: rgb(218, 218, 218);
+  box-shadow: 0 1rem 3rem 0rem rgba(0, 0, 0, 0.7);
+  border-radius: 12px;
+  padding: 12px;
+}
+.btn {
+  /* margin: 20px; */
+}
+
+h4,
+.card {
+  color: rgb(29, 29, 29);
+  background-color: rgb(204, 192, 192);
+  border-radius: 10px;
+}
+.btn-light {
+  background-color: rgb(218, 218, 218);
+  box-shadow: 0 1rem 3rem 0rem rgba(0, 0, 0, 0.7);
+}
+.btn-light:hover {
+  background-color: rgba(253, 255, 158, 0.685);
+  box-shadow: 0 1rem 3rem 0rem rgba(0, 0, 0, 0.7);
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script defer src="./script6.js"></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./style.css" />
+    <title>Практика</title>
+  </head>
+  <body onload="YR(); DT()">
+    <section>
+      <label for="god">Введите год:</label>
+      <input list="year" type="text" name="input" value="" id="god" />
+      <datalist id="year"> </datalist>
+      <br />
+      <label for="strana_cod">Введите код страны:</label>
+      <input list="country" type="text" name="input" value="" id="strana_cod" />
+      <datalist id="country"></datalist>
+      <label for="montheses">Введите месяц:</label>
+      <input list="monthes" type="text" name="input" value="" id="montheses" />
+      <datalist id="monthes">
+        <option value="Январь"></option>
+        <option value="Февраль"></option>
+        <option value="Март"></option>
+        <option value="Апрель"></option>
+        <option value="Май"></option>
+        <option value="Июнь"></option>
+        <option value="Июль"></option>
+        <option value="Август"></option>
+        <option value="Сентябрь"></option>
+        <option value="Октябрь"></option>
+        <option value="Ноябрь"></option>
+        <option value="Декабрь"></option>
+      </datalist>
+      <button
+        style="margin-left: 1%"
+        type="button"
+        class="btn btn-light"
+        onclick="krData(god, strana_cod, montheses)"
+      >
+        Выполнить запрос
+      </button>
+    </section>
+    <section id="may" class="pole">
+      <p class="gg"></p>
+    </section>
+</html>
